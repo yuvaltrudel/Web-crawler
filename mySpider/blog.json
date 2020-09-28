@@ -1,0 +1,10 @@
+[
+{"link": "http://3.120.144.6:2233/main.php", "number of images": 0},
+{"link": "http://3.120.144.6:2233/profile.php", "number of images": 0},
+{"link": "http://3.120.144.6:2233/animals/dogs.php", "number of images": 6},
+{"link": "http://3.120.144.6:2233/animals/cats.php", "number of images": 9},
+{"link": "http://3.120.144.6:2233/blog.php", "number of images": 3},
+{"link": "http://3.120.144.6:2233/blogs/apple-bug-bounty-program.php", "number of images": 1},
+{"link": "http://3.120.144.6:2233/blogs/facebook-data-abus-bounty.php", "number of images": 1},
+{"link": "http://3.120.144.6:2233/blogs/Microsoft-Identity-Bug-Bounty-Program.php", "number of images": 1}
+]
